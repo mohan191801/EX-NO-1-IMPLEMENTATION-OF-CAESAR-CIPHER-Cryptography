@@ -1,10 +1,10 @@
-# EX.NO: 1(A) : IMPLEMENTATION OF CAESAR CIPHER
-
-## AIM:
+EX.NO: 1(A) : IMPLEMENTATION OF CAESAR CIPHER
+NAME: MOHAN M
+REG NO: 2305001018
+AIM:
 To implement the simple substitution technique named Caesar cipher using C language.
 
-## ALOGORITHM:
-
+ALOGORITHM:
 STEP-1: Read the plain text from the user.
 
 STEP-2: Read the key value from the user.
@@ -13,10 +13,9 @@ STEP-3: If the key is positive then encrypt the text by adding the key with each
 
 STEP-4: Else subtract the key from the plain text.
 
-STEP-5: Display the cipher text obtained above.
+STEP-5: Display the cipher text obtained above.
 
-## PROGRAM:
-```
+PROGRAM:
 #include <stdio.h>
 
 int main()
@@ -54,9 +53,8 @@ int main()
 
     return 0;
 }
-```
-## OUTPUT:
+OUTPUT:
+<img width="543" height="245" alt="image" src="https://github.com/user-attachments/assets/ebbb73a4-5549-4db1-aee0-27babcd9763c" />
 
-
-## RESULT :
- Thus the implementation of ceasar cipher had been executed successfully.
+RESULT :
+Thus the implementation of ceasar cipher had been executed successfully.
