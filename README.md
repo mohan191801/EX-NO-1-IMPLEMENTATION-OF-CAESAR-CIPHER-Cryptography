@@ -52,8 +52,9 @@ int main()
     printf("Decrypted: %s\n", text);
 
     return 0;
-}
+    }
 OUTPUT:
+
 <img width="543" height="245" alt="image" src="https://github.com/user-attachments/assets/ebbb73a4-5549-4db1-aee0-27babcd9763c" />
 
 RESULT :
